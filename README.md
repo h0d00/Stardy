@@ -13,7 +13,7 @@
 ## 1. 회원 이용 모습
 ![로그인_ 강의 해금_ 출석체크 _ 강의시청](https://user-images.githubusercontent.com/110148272/195048194-88219b9a-f8a1-4cc5-a470-e91dce6ac21f.gif)
 
-## 2. 강의 카테코리별 조회
+## 2. 강의 카테리별 조회
 ![강의목록_확인](https://user-images.githubusercontent.com/110148272/195048553-ee52102e-d116-4782-bcfc-ea7490842eb4.gif)
 
 ## 3. 게시판 이용
